@@ -2,7 +2,7 @@
 *.DS_Store
 index.html_old
 NeuroStartUp.png_backup
-*_old
-*_backup
+*old
+*backup
 *.db 
 
